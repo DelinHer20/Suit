@@ -52,13 +52,13 @@ body{
   display: none;
 }
 .menang{
-  background-color: #17F856;
+  background-color:blueviolet;
 }
 .kalah{
-  background-color: #F3473A;
+  background-color: #26cf59;
 }
 .seri{
-  background-color: #F7DF1D;
+  background-color: #f71d1d;
 }
 
 .btn{
